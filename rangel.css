@@ -1,0 +1,127 @@
+p{
+	color:#f08080;
+	font-size: 20px;
+	font-family: arial;
+	text-shadow: 1px 1px 1px #111111;
+	text-align: justify;
+	margin: 0 60px 60px 60px;
+	
+
+
+}
+body{
+	background-color: white;
+}
+*{
+	margin:0;
+	padding:0;
+	font-family:"times new roman";
+}
+
+
+header{
+	background-color:#FFE4E1;
+	height: 45px;
+	padding: 20px;
+	
+}
+footer{
+	clear: both;
+	background-color:#FFE4E1;
+	height:80px;
+	text-align: center;
+	padding: 10px;
+	font-size: 12px;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+h1{
+	color:#CD5C5C;
+	text-shadow: 1px 1px 1px #111111;
+	text-align:center;
+    font-family: impact;
+	margin: 0px 0 50px 0;
+	
+
+}
+
+#principal{
+	background-image: url('bg.jpg');
+	clear: both;
+	background-size: 100%;
+	min-height: 400px;
+	padding:100px;
+
+}
+#menu{
+	margin-top:0px; 
+	float: right;
+}
+#menu a {
+	margin-top:50px 50px;
+	padding: 50px 50px;
+	text-decoration: none;
+	color: 	#CD5C5C;
+	text-shadow: 1px 1px  #111111;
+}
+#menu a:hover{
+	background-color:	#FFC0CB;
+	color:	#FFE4E1;
+
+}
+.container{
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px; 
+    padding:0px 80px 80px 80px;
+
+}
+    
+.parágrafo {
+	margin-bottom: 150px;
+}
+.redesocial{
+	display: flex;
+	 justify-content: center;
+
+
+}
+
+.rs{
+	width: 100px;
+	height: auto;
+	
+}
+#curiosidade{
+	width: 300px
+}
+#curio{
+    width: 600px;
+  
+    
+}
+
+.efeito{
+ background-color: rgba(255,0,0,0.2);
+ margin-left: auto;
+ margin-right: auto;
+ width: 900px;
+ padding: 0px,80px 80px 80px;
+ border-radius: 20px
+
+}
+.efeito2{
+ background-color: rgba(255,0,0,0.2);
+ margin-left: auto;
+ margin-right: auto;
+ width: 900px;
+ border-radius: 20px
+
+}
